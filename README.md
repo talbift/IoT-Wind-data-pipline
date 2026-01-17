@@ -12,7 +12,7 @@ Ce projet implémente une architecture distribuée à 3 nœuds pour la collecte,
 
 \- \*\*data/\*\* : Scripts de simulation et génération de données brutes.
 
-\- \*\*docs/\*\* : Rapport technique détaillé et schéma de l'architecture.
+
 
 \- \*\*requirements.txt\*\* : Dépendances nécessaires (Paho-MQTT, PyMongo, Redis).
 
