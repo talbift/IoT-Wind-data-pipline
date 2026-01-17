@@ -24,7 +24,7 @@ Le pipeline repose sur un découplage des responsabilités :
 
 1\. \*\*MQTT (Mosquitto)\*\* : Transport des messages des turbines.
 
-2\. \*\*Node 1 (Ingestion)\*\* : Nettoyage des données (imputation des `NaN` par la moyenne 5.98).
+2\. \*\*Node 1 (Ingestion)\*\* : Nettoyage des données (imputation des `NaN` par la moyenne).
 
 3\. \*\*Redis Streams\*\* : Système de buffer à haute performance.
 
